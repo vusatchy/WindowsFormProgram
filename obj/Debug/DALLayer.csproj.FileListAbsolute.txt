@@ -1,0 +1,7 @@
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DALLayer.csprojResolveAssemblyReference.cache
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.exe
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\DAL.exe.config
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\DAL.exe
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\MySql.Data.dll

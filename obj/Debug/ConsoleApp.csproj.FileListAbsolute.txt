@@ -1,0 +1,15 @@
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\DAL.exe.config
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\DAL.exe
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\white\Desktop\C++\DAL\DAL\bin\Debug\MySql.Data.dll
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.exe
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Forms.MainMenu.resources
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\ConsoleApp.csproj.GenerateResource.Cache
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Forms.SignUpFormcs.resources
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Forms.ResetPassword.resources
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Forms.SignIn.resources
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Forms.RegisteredUserMenu.resources
+C:\Users\white\Desktop\C++\DAL\DAL\obj\Debug\DAL.Forms.ChangePasswordForm.resources
